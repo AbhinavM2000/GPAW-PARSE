@@ -16,5 +16,6 @@ To use GPAW-PARSE on Windows, follow these simple steps:
 ### Linux
 Linux version coming soon
 
-
+### Screenshot
+![image](https://user-images.githubusercontent.com/46239775/232321919-7db141c5-d3e2-4348-a96e-504f6a24b0bf.png)
 
