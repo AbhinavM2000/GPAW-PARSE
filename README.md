@@ -14,3 +14,7 @@ To use GPAW-PARSE on Windows, follow these simple steps:
 
 ### Linux
 To use GPAW-PARSE on Linux, follow these steps:
+
+
+
+### Sample .out file given is for Zn3O6H6
