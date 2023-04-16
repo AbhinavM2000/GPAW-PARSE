@@ -1,12 +1,16 @@
 # GPAW-PARSE
 A utility to parse GPAW .out files and extract data.
 
+## Introduction
+GPAW-PARSE is a utility tool designed to parse GPAW `.out` files and extract useful data from them. This tool is especially useful for researchers who are using GPAW for their computational materials science simulations.
 
-## USAGE :
+## Usage
+### Windows
+To use GPAW-PARSE on Windows, follow these simple steps:
 
-Windows 
-Download windows release
-Put .out file in data folder
-Run GPAW_PARSE.exe
+1. Download the latest Windows release of GPAW-PARSE from the releases page.
+2. Put your `.out` file in the `data` folder.
+3. Run `GPAW_PARSE.exe`.
 
-Linux
+### Linux
+To use GPAW-PARSE on Linux, follow these steps:
