@@ -14,7 +14,7 @@ To use GPAW-PARSE on Windows, follow these simple steps:
 3. Run `GPAW_PARSE.exe`.
 
 ### Linux
-To use GPAW-PARSE on Linux, follow these steps:
+Linux version coming soon
 
 
 
